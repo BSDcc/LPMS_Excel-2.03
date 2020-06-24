@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/08/15 20:49:39.667.pas,C:\Documents and Settings\Francois Meyer\My Documents\Borland Studio Projects\Unit6.pas=C:\Development\TSM_DC\Windows\TSMDCXexcel.pas</Transaction>
+    <Transaction>2006/08/15 20:49:39.677.dfm,C:\Documents and Settings\Francois Meyer\My Documents\Borland Studio Projects\Unit6.dfm=C:\Development\TSM_DC\Windows\TSMDCXexcel.dfm</Transaction>
+    <Transaction>2006/08/15 20:50:03.892.bdsproj,C:\Documents and Settings\Francois Meyer\My Documents\Borland Studio Projects\Project4.bdsproj=C:\Development\TSM_DC\Windows\TSM_DC_Excel.bdsproj</Transaction>
+    <Transaction>2010/01/03 07:15:01.171.dproj,C:\Development\LegalDiary\TSM_DC_Excel.dproj=C:\Development\LegalDiary\ldExcelPrj.dproj</Transaction>
+    <Transaction>2010/01/03 07:15:31.937.pas,C:\Development\LegalDiary\TSMDCXexcel.pas=C:\Development\LegalDiary\ldExcel.pas</Transaction>
+    <Transaction>2010/01/03 07:15:31.937.dfm,C:\Development\LegalDiary\TSMDCXexcel.dfm=C:\Development\LegalDiary\ldExcel.dfm</Transaction>
+    <Transaction>2010/01/03 13:53:39.609.pas,C:\Development\LegalDiary\ldExcel.pas=C:\Development\LegalDiary\ldExcelApp.pas</Transaction>
+    <Transaction>2010/01/03 13:53:39.609.dfm,C:\Development\LegalDiary\ldExcel.dfm=C:\Development\LegalDiary\ldExcelApp.dfm</Transaction>
+    <Transaction>2010/01/03 13:53:52.406.dproj,C:\Development\LegalDiary\ldExcelPrj.dproj=C:\Development\LegalDiary\ldExcel.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
